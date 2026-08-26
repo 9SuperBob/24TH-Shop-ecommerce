@@ -11,29 +11,26 @@ function Footer() {
     <footer className="mt-16 bg-gray-700 text-zinc-100">
       <div className="container mx-auto grid gap-10 px-5 py-12 sm:grid-cols-2 lg:grid-cols-[2fr_1fr_1fr]">
         <div>
-          <Link to="/" className="text-3xl font-semibold tracking-tight ">
+          <p to="/" className="text-3xl font-semibold tracking-tight ">
             24HR Shop
-          </Link>
+          </p>
           <p className="mt-3 max-w-sm text-sm leading-6 text-zinc-400">
             Easily shop for the products you love and manage your shopping cart
             all in one place.
           </p>
         </div>
 
-        {/* <div>
+        <div>
           <h2 className="text-2xl font-semibold">Menu</h2>
           <nav className="mt-4 flex flex-col items-start gap-3 text-sm text-zinc-400">
             <Link to="/" className="transition hover:text-white">
               Home
             </Link>
-            <a href="#products" className="transition hover:text-white">
-              Page
-            </a>
             <Link to="/checkout" className="transition hover:text-white">
               Check out
             </Link>
           </nav>
-        </div> */}
+        </div>
 
         <div>
           <h2 className="text-2xl font-semibold">Contact us</h2>
