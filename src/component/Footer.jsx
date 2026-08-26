@@ -20,7 +20,7 @@ function Footer() {
           </p>
         </div>
 
-        <div>
+        {/* <div>
           <h2 className="text-2xl font-semibold">Menu</h2>
           <nav className="mt-4 flex flex-col items-start gap-3 text-sm text-zinc-400">
             <Link to="/" className="transition hover:text-white">
@@ -33,7 +33,7 @@ function Footer() {
               Check out
             </Link>
           </nav>
-        </div>
+        </div> */}
 
         <div>
           <h2 className="text-2xl font-semibold">Contact us</h2>
