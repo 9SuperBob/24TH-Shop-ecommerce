@@ -1,148 +1,14 @@
-# My Portfolio
+# 🛒 24TH Shop E-Commerce
 
-เว็บไซต์ Portfolio ส่วนตัวสำหรับนำเสนอข้อมูลเกี่ยวกับตัวผม ทักษะด้านการพัฒนาเว็บไซต์ และผลงาน Web Development / Frontend Development ที่เคยพัฒนา
+เว็บไซต์ E-Commerce สำหรับทดลองพัฒนา Frontend ด้วย **React** โดยจำลองการทำงานของร้านค้าออนไลน์ ตั้งแต่การแสดงสินค้า ดูรายละเอียดสินค้า เพิ่มสินค้าลงตะกร้า จัดการจำนวนสินค้า ไปจนถึงหน้า Checkout
 
-เว็บไซต์ถูกออกแบบในรูปแบบ **Minimalist Black & White** เน้นความเรียบง่าย อ่านง่าย และใช้งานได้ดีทั้งบน Desktop, Tablet และ Mobile
+โปรเจกต์นี้เน้นการฝึกพัฒนา **React Component, State Management, API Integration, React Router และ Local Storage** รวมถึงการออกแบบ Responsive User Interface ด้วย Tailwind CSS
+
+---
 
 ## 🌐 Live Demo
 
-**Portfolio:**
-https://my-portfolio-zbr5.vercel.app/
-
----
-
-## ✨ Features
-
-* 📌 **Portfolio Website** สำหรับนำเสนอข้อมูลส่วนตัวและผลงาน
-* 👤 **About Me** แนะนำข้อมูลและความสนใจด้านการพัฒนาเว็บไซต์
-* 💻 **Projects Showcase** แสดงผลงานพร้อมรายละเอียดและ Technology Stack
-* 🛠️ **Skills & Tools** แสดงทักษะด้าน Frontend, Web Development และเครื่องมือที่ใช้งาน
-* 🌙 **Dark / Light Mode** รองรับการเปลี่ยนธีมเว็บไซต์
-* 💾 **Local Storage** จดจำธีมที่ผู้ใช้เลือกไว้
-* 🎨 **PixelBlast Background** เพิ่ม Animation บริเวณ Hero Section
-* 📱 **Responsive Design** รองรับ Desktop, Tablet และ Mobile
-* ✨ **Smooth Animation** ด้วย Motion
-* 📄 สามารถเปิดดู **CV และ Resume** จากเว็บไซต์ได้
-* 🔗 เชื่อมต่อไปยัง GitHub และ LinkedIn
-
----
-
-## 🧑‍💻 About Me
-
-ผมเป็นนักศึกษาด้านเทคโนโลยีสารสนเทศที่มีความสนใจในการพัฒนาเว็บไซต์ โดยเฉพาะด้าน **Frontend Development, Web Development และ UX/UI Design**
-
-มีประสบการณ์ในการพัฒนาเว็บไซต์ด้วย React, JavaScript, HTML, CSS และ Tailwind CSS โดยให้ความสำคัญกับการสร้างเว็บไซต์ที่ Responsive ใช้งานง่าย และมี User Interface ที่เหมาะสมกับผู้ใช้งาน
-
-Portfolio นี้ถูกสร้างขึ้นเพื่อรวบรวมและนำเสนอผลงาน รวมถึงแสดงทักษะและเทคโนโลยีที่ได้เรียนรู้และนำมาประยุกต์ใช้ในการพัฒนาเว็บไซต์
-
----
-
-## 🛠️ Technologies
-
-### Frontend
-
-* JavaScript
-* React
-* Tailwind CSS
-
-### Development
-
-* Vite
-* Node.js
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Codex
-
-### Libraries
-
-* React Icons
-* React Bits
-* Three.js
-* Postprocessing
-
----
-
-## 📂 Projects
-
-ภายใน Portfolio มีผลงานที่นำเสนอทั้งหมด 5 โปรเจกต์
-
-### 01. Johannes Vermeer
-
-เว็บไซต์ Gallery และประวัติของ Johannes Vermeer โดยนำเสนอผลงานศิลปะและข้อมูลเกี่ยวกับศิลปิน
-
-**Technologies:** HTML, CSS
-
-**Live Demo:**
-https://9superbob.github.io/johannes-vermeer/
-
-**GitHub:**
-https://github.com/9SuperBob/johannes-vermeer
-
----
-
-### 02. Mental Health
-
-เว็บไซต์ให้ความรู้เกี่ยวกับสุขภาพจิตสำหรับวัยรุ่น มีเนื้อหาความรู้ แบบประเมินเบื้องต้น และแนวทางการดูแลสุขภาพจิต
-
-เว็บไซต์ถูกออกแบบให้ใช้งานง่ายและรองรับ Responsive Design พร้อมการจัดโครงสร้างหน้าเว็บที่เหมาะสมกับการเข้าถึงข้อมูล
-
-**Technologies:** HTML, Bootstrap 5, CSS
-
-**Live Demo:**
-https://9superbob.github.io/Mental_Health-66/
-
-**GitHub:**
-https://github.com/9SuperBob/Mental_Health-66
-
----
-
-### 03. Vizard Fashion Store
-
-เว็บไซต์ E-Commerce สำหรับร้านแฟชั่นที่ออกแบบในรูปแบบ Modern Luxury โดยเน้นด้าน UI/UX, Typography, Layout และ Responsive Design
-
-โปรเจกต์นี้เน้นการพัฒนา Frontend และการนำเสนอสินค้า โดยไม่ได้มุ่งเน้นระบบ Backend หรือ Business Logic ที่ซับซ้อน
-
-**Technologies:** React, Vite, JavaScript, Tailwind CSS, Node.js
-
-**Live Demo:**
-https://9superbob.github.io/Vizard-fashion-store/
-
-**GitHub:**
-https://github.com/9SuperBob/stynra-fashion-store
-
----
-
-### 04. My Portfolio
-
-เว็บไซต์ Portfolio ที่ใช้สำหรับนำเสนอผลงาน ทักษะ และข้อมูลด้านการพัฒนาเว็บไซต์
-
-เว็บไซต์ถูกพัฒนาด้วย React โดยใช้ Reusable Components และ Tailwind CSS พร้อมรองรับ Responsive Design และ Dark / Light Mode
-
-**Technologies:** React, Vite, JavaScript, Tailwind CSS, Node.js
-
-**Live Demo:**
-https://my-portfolio-zbr5.vercel.app/
-
-**GitHub:**
-https://github.com/9SuperBob/My-portfolio
-
----
-
-### 05. 24HR Shop
-
-เว็บไซต์ E-Commerce ที่พัฒนาด้วย React โดยมีระบบแสดงสินค้า ค้นหาสินค้า Filter, Sort และหน้ารายละเอียดสินค้า
-
-มีการเชื่อมต่อ **DummyJSON API** เพื่อดึงข้อมูลสินค้า รวมถึงระบบ Shopping Cart ที่สามารถเพิ่ม ลบ และปรับจำนวนสินค้าได้ พร้อมคำนวณราคารวมอัตโนมัติ
-
-มีการใช้ React Router สำหรับการเปลี่ยนหน้า และใช้ Local Storage สำหรับบันทึกข้อมูลตะกร้าสินค้าเมื่อ Refresh หน้าเว็บไซต์
-
-**Technologies:** React, Vite, JavaScript, Tailwind CSS, REST API
-
-**Live Demo:**
+**Website:**
 https://24-th-shop-ecommerce.vercel.app/
 
 **GitHub:**
@@ -150,67 +16,252 @@ https://github.com/9SuperBob/24TH-Shop-ecommerce
 
 ---
 
+## ✨ Features
+
+### 🛍️ Product Listing
+
+* แสดงรายการสินค้าจาก API
+* แสดงรูปภาพ ชื่อสินค้า ราคา และข้อมูลที่เกี่ยวข้อง
+* รองรับการเลือกดูรายละเอียดสินค้า
+
+### 🔎 Product Detail
+
+* แสดงรายละเอียดสินค้า
+* แสดงรูปภาพสินค้า
+* แสดงราคาและจำนวนสินค้าใน Stock
+* แสดงคะแนนและ Reviews
+* เลือกจำนวนสินค้าที่ต้องการซื้อ
+* เพิ่มสินค้าลงตะกร้า
+* สามารถกด **Buy Now** เพื่อไปยังหน้า Checkout ได้ทันที
+* แสดงสินค้าอื่น ๆ ในหมวดหมู่เดียวกัน
+* สามารถเลื่อนไปยังสินค้าก่อนหน้าและถัดไปได้
+
+### 🛒 Shopping Cart
+
+ระบบตะกร้าสินค้าสามารถ
+
+* เพิ่มสินค้า
+* เพิ่มจำนวนสินค้า
+* ลดจำนวนสินค้า
+* ลบสินค้า
+* ตรวจสอบว่าสินค้ามีอยู่ในตะกร้าหรือไม่
+* คำนวณจำนวนสินค้ารวม
+* คำนวณราคาสินค้ารวม
+* บันทึกข้อมูลตะกร้าด้วย Local Storage
+
+### 💳 Checkout
+
+หน้า Checkout รองรับ
+
+* กรอกชื่อ
+* กรอก Email
+* กรอกเบอร์โทรศัพท์
+* กรอกที่อยู่
+* เลือกช่องทางการชำระเงิน
+
+  * Credit Card
+  * PromptPay
+  * Cash on Delivery
+* แสดงรายการสินค้าในคำสั่งซื้อ
+* ปรับจำนวนสินค้า
+* ลบสินค้า
+* คำนวณจำนวนสินค้าและยอดรวม
+* ตรวจสอบข้อมูลก่อนส่งคำสั่งซื้อ
+* จำลองการสั่งซื้อสำเร็จ
+
+> หมายเหตุ: ระบบ Checkout และ Payment ในโปรเจกต์นี้เป็น **ระบบจำลองสำหรับการศึกษา** ยังไม่มีการเชื่อมต่อระบบชำระเงินจริงหรือ Backend
+
+---
+
+## 🔌 API
+
+โปรเจกต์ใช้ **DummyJSON API** สำหรับดึงข้อมูลสินค้า
+
+API ที่ใช้:
+
+```text
+https://dummyjson.com/products
+```
+
+ข้อมูลที่นำมาใช้งาน เช่น
+
+* Product ID
+* Product Name
+* Price
+* Description
+* Category
+* Stock
+* Images
+* Rating
+* Reviews
+
+การเรียกข้อมูล API ใช้ JavaScript `fetch()` และจัดการข้อมูลด้วย React State
+
+---
+
+## 🛠️ Technologies
+
+### Frontend
+
+* React
+* JavaScript
+* Tailwind CSS
+
+### Development
+
+* Vite
+* Node.js
+* npm
+
+### Libraries
+
+* React Router
+* Heroicons
+
+### API & Data
+
+* REST API
+* DummyJSON API
+* Local Storage
+
+### Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+
+---
+
+## 🧩 React Concepts ที่ใช้
+
+โปรเจกต์นี้นำแนวคิดสำคัญของ React มาใช้งาน เช่น
+
+### Components
+
+แบ่งหน้าเว็บไซต์ออกเป็น Components เพื่อให้สามารถนำกลับมาใช้ซ้ำและดูแลโค้ดได้ง่ายขึ้น
+
+ตัวอย่าง Components:
+
+```text
+Navbar
+Hero
+Pageshop1
+ProductDetail
+Checkout
+Footer
+```
+
+### State Management
+
+ใช้ React `useState()` สำหรับจัดการข้อมูล เช่น
+
+* รายการสินค้า
+* ตะกร้าสินค้า
+* จำนวนสินค้า
+* ข้อมูล Checkout
+* วิธีการชำระเงิน
+
+### Side Effects
+
+ใช้ `useEffect()` สำหรับ
+
+* เรียกข้อมูลจาก API
+* โหลดข้อมูล Cart จาก Local Storage
+* บันทึก Cart ลง Local Storage
+
+### Routing
+
+ใช้ **React Router** เพื่อจัดการเส้นทางของเว็บไซต์
+
+```text
+/                  → หน้าร้านค้า
+/product/:id       → รายละเอียดสินค้า
+/checkout          → หน้า Checkout
+```
+
+---
+
+## 💾 Local Storage
+
+โปรเจกต์ใช้ Browser Local Storage ในการจัดเก็บข้อมูล Shopping Cart
+
+เมื่อผู้ใช้เพิ่มสินค้าในตะกร้า ระบบจะบันทึกข้อมูล Cart ลงใน Local Storage ทำให้ข้อมูลตะกร้ายังคงอยู่แม้ว่าจะ Refresh หน้าเว็บไซต์
+
+ตัวอย่างข้อมูลที่จัดเก็บ:
+
+```text
+cart
+```
+
+---
+
 ## 📁 Project Structure
 
 ```text
-My-portfolio/
+24TH-Shop-ecommerce/
 │
 ├── public/
+│   ├── favicon.svg
+│   └── icons.svg
 │
 ├── src/
-│   ├── components/
-│   │   ├── About.jsx
+│   ├── assets/
+│   │   ├── hero.png
+│   │   ├── react.svg
+│   │   └── vite.svg
+│   │
+│   ├── component/
 │   │   ├── Footer.jsx
 │   │   ├── Hero.jsx
 │   │   ├── Navbar.jsx
-│   │   ├── PixelBlast.jsx
-│   │   ├── ProjectIndex.jsx
-│   │   └── Skillspage.jsx
+│   │   └── Pageshop1.jsx
 │   │
-│   ├── picture/
-│   │   ├── 24HR.png
-│   │   ├── CV_Sirawit.pdf
-│   │   ├── Portfolio-Resume.pdf
-│   │   ├── Stynre.png
-│   │   ├── mental.png
-│   │   ├── myportfolio.png
-│   │   └── ...
+│   ├── function/
+│   │   ├── Checkout.jsx
+│   │   └── ProductDetail.jsx
 │   │
+│   ├── pictures/
+│   │   ├── beauty1.jpg
+│   │   ├── beauty2.jpg
+│   │   ├── fragrances1.jpg
+│   │   ├── fragrances2.jpg
+│   │   ├── furniture1.jpg
+│   │   ├── furniture2.jpg
+│   │   ├── groceries1.jpg
+│   │   ├── groceries2.jpg
+│   │   └── shopping-cart.png
+│   │
+│   ├── App.css
 │   ├── App.jsx
 │   ├── index.css
 │   └── main.jsx
 │
-├── scripts/
-│   └── verify-*.mjs
-│
 ├── docs/
-│   └── superpowers/
 │
 ├── index.html
 ├── package.json
 ├── package-lock.json
-├── tailwind.config.js
-├── postcss.config.js
-└── vite.config.js
+├── vite.config.js
+└── jsrepo.config.ts
 ```
 
 ---
 
 ## 🚀 Installation
 
-Clone Repository
+### 1. Clone Repository
 
 ```bash
-git clone https://github.com/9SuperBob/My-portfolio.git
+git clone https://github.com/9SuperBob/24TH-Shop-ecommerce.git
 ```
 
-เข้าสู่โฟลเดอร์โปรเจกต์
+### 2. เข้าสู่โฟลเดอร์โปรเจกต์
 
 ```bash
-cd My-portfolio
+cd 24TH-Shop-ecommerce
 ```
 
-ติดตั้ง Dependencies
+### 3. ติดตั้ง Dependencies
 
 ```bash
 npm install
@@ -220,13 +271,13 @@ npm install
 
 ## ▶️ Run Development Server
 
-รันโปรเจกต์ในโหมด Development
+รันโปรเจกต์ด้วยคำสั่ง
 
 ```bash
 npm run dev
 ```
 
-จากนั้นเปิด URL ที่ Vite แสดงใน Terminal เช่น
+จากนั้นเปิดเว็บไซต์ผ่าน URL ที่ Vite แสดงใน Terminal เช่น
 
 ```text
 http://localhost:5173
@@ -236,13 +287,13 @@ http://localhost:5173
 
 ## 📦 Build สำหรับ Production
 
-สร้างไฟล์สำหรับ Production ด้วยคำสั่ง
+สร้าง Production Build ด้วยคำสั่ง
 
 ```bash
 npm run build
 ```
 
-สามารถ Preview Production Build ได้ด้วย
+หากต้องการ Preview Production Build:
 
 ```bash
 npm run preview
@@ -250,89 +301,113 @@ npm run preview
 
 ---
 
-## 🧪 Testing
+## 🛒 User Flow
 
-โปรเจกต์มี Script สำหรับตรวจสอบส่วนต่าง ๆ ของเว็บไซต์ เช่น Hero, About, Skills, PixelBlast และ Components ที่เกี่ยวข้อง
+การใช้งานหลักของเว็บไซต์สามารถทำได้ตามลำดับดังนี้
 
-สามารถรันได้ด้วย
-
-```bash
-npm test
+```text
+หน้าแรก
+   │
+   ▼
+แสดงรายการสินค้า
+   │
+   ▼
+เลือกสินค้า
+   │
+   ▼
+Product Detail
+   │
+   ├── Add to Cart
+   │       │
+   │       ▼
+   │   Shopping Cart
+   │
+   └── Buy Now
+           │
+           ▼
+       Checkout
+           │
+           ▼
+     กรอกข้อมูล
+           │
+           ▼
+   เลือก Payment Method
+           │
+           ▼
+       Place Order
+           │
+           ▼
+     Order Success
 ```
-
----
-
-## 🎨 Design Concept
-
-Portfolio ถูกออกแบบด้วยแนวคิด **Minimalist / Editorial Design**
-
-โดยใช้
-
-* Black & White Color Scheme
-* Typography ขนาดใหญ่
-* เส้น Border เพื่อแบ่ง Section
-* Minimal Layout
-* Responsive Grid
-* Animation ที่ไม่รบกวนการใช้งาน
-* Dark / Light Theme
-
-เพื่อให้เว็บไซต์มีความเรียบง่าย ทันสมัย และเน้นให้ผลงานเป็นจุดเด่น
 
 ---
 
 ## 📱 Responsive Design
 
-เว็บไซต์รองรับการแสดงผลบนอุปกรณ์หลายขนาด ได้แก่
+เว็บไซต์ออกแบบให้รองรับการใช้งานบนหน้าจอหลายขนาด เช่น
 
 * 💻 Desktop
 * 💻 Laptop
 * 📱 Tablet
 * 📱 Mobile
 
-Layout และ Typography จะปรับตามขนาดหน้าจอเพื่อให้สามารถใช้งานและอ่านข้อมูลได้อย่างเหมาะสม
-
----
-
-## 🌙 Dark / Light Mode
-
-เว็บไซต์รองรับ Dark Mode และ Light Mode โดยใช้ React State ในการจัดการ Theme
-
-Theme ที่ผู้ใช้เลือกจะถูกบันทึกลงใน **Local Storage** ทำให้เมื่อกลับมาเปิดเว็บไซต์อีกครั้ง ระบบสามารถจำ Theme ล่าสุดได้
-
----
-
-## 📄 Resume & CV
-
-ภายใน Portfolio มีเอกสารสำหรับแนะนำประวัติและทักษะ ได้แก่
-
-* CV
-* Portfolio Resume
-
-สามารถเปิดดูได้จากหน้า About ของเว็บไซต์
+โดยใช้ Utility Classes ของ **Tailwind CSS** ในการจัด Layout และ Responsive Breakpoints
 
 ---
 
 ## 🎯 จุดประสงค์ของโปรเจกต์
 
-โปรเจกต์นี้จัดทำขึ้นเพื่อ
+โปรเจกต์นี้จัดทำขึ้นเพื่อฝึกทักษะด้าน **Frontend Development** และการสร้าง Web Application ด้วย React
 
-1. รวบรวมและนำเสนอผลงานด้าน Web Development
-2. แสดงทักษะด้าน Frontend Development
-3. ฝึกการพัฒนาเว็บไซต์ด้วย React
-4. ฝึกการสร้าง Responsive User Interface
-5. ฝึกการใช้งาน Component-Based Development
-6. ฝึกการใช้ API และจัดการข้อมูลใน React
-7. ใช้เป็น Portfolio สำหรับสมัครงานและฝึกงาน
+โดยมีจุดประสงค์หลัก ได้แก่
+
+1. ฝึกพัฒนาเว็บไซต์ด้วย React
+2. ฝึกการสร้างและจัดการ React Components
+3. ฝึกการใช้ React Hooks เช่น `useState()` และ `useEffect()`
+4. ฝึกการใช้งาน React Router
+5. ฝึกการเชื่อมต่อ REST API
+6. ฝึกการจัดการข้อมูลจาก API
+7. ฝึกสร้างระบบ Shopping Cart
+8. ฝึกใช้ Local Storage
+9. ฝึกสร้างหน้า Product Detail
+10. ฝึกสร้างหน้า Checkout
+11. ฝึกออกแบบ Responsive User Interface
+12. ฝึกการจัดโครงสร้างโปรเจกต์ Frontend
 
 ---
 
-##
+## 💡 สิ่งที่ได้เรียนรู้จากโปรเจกต์
+
+จากการพัฒนาโปรเจกต์นี้ ได้ฝึกการทำงานของ Web Application ตั้งแต่การรับข้อมูลจาก API ไปจนถึงการนำข้อมูลมาแสดงผลและจัดการข้อมูลภายในฝั่ง Frontend
+
+โดยเฉพาะการจัดการ State ของสินค้าและ Shopping Cart รวมถึงการทำงานร่วมกันระหว่างหลาย Components ผ่าน Props และ React State
+
+นอกจากนี้ยังได้ฝึกการใช้ React Router เพื่อสร้างหลายหน้าใน Single Page Application และใช้ Local Storage เพื่อเก็บข้อมูลของผู้ใช้ภายใน Browser
+
+---
+
+## ⚠️ ข้อจำกัดของโปรเจกต์
+
+โปรเจกต์นี้เป็น **Frontend E-Commerce สำหรับการศึกษา** จึงมีข้อจำกัดบางประการ เช่น
+
+* ไม่มี Backend จริง
+* ไม่มีฐานข้อมูลของระบบเอง
+* ระบบ Login / Register ยังไม่มี
+* ระบบ Payment เป็นเพียงการจำลอง
+* Order ไม่ได้ถูกบันทึกลง Server
+* ข้อมูลสินค้าถูกดึงจาก DummyJSON API
+* ไม่มีระบบจัดการสินค้าแบบ Admin
+
+---
 
 ## 👨‍💻 Developer
 
-Developed by **SIRAWIT NOKAUM**
+## 👨‍💻 Developer
 
-🎓 Information Technology Student 🏫 Sripatum University
+Developed by **SIRAWIT NOKAUM**
+
+🎓 Information Technology Student
+🏫 Sripatum University
 
 ---
 
